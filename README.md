@@ -13,4 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github.com/kibexd/First-Repo/blob/main/anime-aesthetic.gif " width="500" height="320" /></p>
 
+
+
+
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibexd&show_icons=true&theme=aura)
