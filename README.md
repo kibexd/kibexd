@@ -6,7 +6,7 @@ kibexd/kibexd is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m @kibexd
+- 👋 Hi, I’m Enock Kibe
 - 👀 I’m learning front and backend dev
 - 🌱 I’m currently learning web and software dev
 - 💞️ I’m looking to collaborate on working with teams to build solutions for businesses
