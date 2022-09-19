@@ -1,6 +1,5 @@
-    
-
-
+<p><img align="right" src="https://github.com/kibexd/First-Repo/blob/main/anime-aesthetic.gif " width="500" height="320" /></p>
+# About me🚀
 <!---
 kibexd/kibexd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
