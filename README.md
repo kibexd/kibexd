@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m Enock Kibe
-- 👀 I’m learning front and backend dev
-- 🌱 I’m currently learning web and software dev
-- 💞️ I’m looking to collaborate on working with teams to build solutions for businesses
+- 👀 I’m into frontend and backend dev
+- 🌱 I’m currently learning web and software dev 
+- 💞️ I’m looking to collaborate on working on projects with teams to build efficient solutions to solve modern problems for businesses and humanity
 - 📫 How to reach  me https://github.com/kibexd/kibexd
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibexd&show_icons=true&theme=aura)
