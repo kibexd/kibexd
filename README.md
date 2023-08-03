@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Enock Kibe
 - 👀 I’m into frontend and backend dev
 - 🌱 I’m currently learning web and software dev 
-- 💞️ I’m looking to collaborate on working on projects with teams to build efficient solutions to solve modern problems for businesses and humanity
+- 💞️ I’m looking to collaborate on projects with teams to build efficient solutions to solve modern problems for businesses and humanity
 - 📫 How to reach  me [Enock Kibe](https://transcendent-kangaroo-8e9ef0.netlify.app/)
 
 
