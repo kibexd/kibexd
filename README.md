@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 <p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/kife.gif" width="600" height="200" /></p>
 
-<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/frontend.gif" width="600" height="200" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/frontend1.gif" width="600" height="200" /></p>
 
-<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/backend.gif" width="600" height="200" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/backend1.gif" width="600" height="200" /></p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
