@@ -16,6 +16,8 @@
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
         <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
         <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
+         <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     </p>
 
 
@@ -27,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m Enock Kibe
-- 👀 I’m into frontend and backend dev
-- 🌱 I’m currently learning javascript and react
+- 👀 I’m into frontend and backend dev and hacking
+- 🌱 I’m currently learning javascript and react and some hacking
 - 💞️ I’m looking to collaborate on projects with teams to build efficient solutions to solve modern problems for businesses and humanity
 - 📫 How to reach  me [Enock Kibe](https://transcendent-kangaroo-8e9ef0.netlify.app/)
 
