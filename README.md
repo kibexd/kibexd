@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibexd&show_icons=true&theme=aura)
 
-<p><img align="left" src=https://raw.githubusercontent.com/kibexd/First-Repo/main/giphy.gif"" width="500" height="320" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/giphy.gif" width="480" height="270" /></p>
