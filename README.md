@@ -43,7 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 <p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/hacking.gif" width="600" height="200" /></p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=kibexd)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
