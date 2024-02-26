@@ -35,13 +35,22 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach  me [Enock Kibe](https://kifee.netlify.app/)
 
 
-<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/kife.gif" width="600" height="200" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/kife1.gif" width="600" height="200" /></p>
 
-<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/frontend1.gif" width="600" height="200" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/frontendd1.gif" width="600" height="200" /></p>
 
-<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/backend1.gif" width="600" height="200" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/backendd1.gif" width="600" height="200" /></p>
 
-<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/hacking.gif" width="600" height="200" /></p>
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/linuxwindows.gif" width="600" height="200" /></p>
+
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/cybersecurity.gif" width="600" height="200" /></p>
+
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/Programming.gif" width="600" height="200" /></p>
+
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/Itsecurity.gif" width="600" height="200" /></p>
+
+<p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/Itsupport.gif" width="600" height="200" /></p>
+
 
 ![](https://komarev.com/ghpvc/?username=kibexd)
 
