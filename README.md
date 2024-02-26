@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m into frontend and backend dev and hacking
 - 🌱 I’m currently learning javascript and react and some hacking
 - 💞️ I’m looking to collaborate on projects with teams to build efficient solutions to solve modern problems for businesses and humanity
-- 📫 How to reach  me [Enock Kibe](https://655a5e6093efb16942fda4d3--subtle-horse-151e7e.netlify.app/)
+- 📫 How to reach  me [Enock Kibe](https://kifee.netlify.app/)
 
 
 <p><img src="https://raw.githubusercontent.com/kibexd/First-Repo/main/kife.gif" width="600" height="200" /></p>
