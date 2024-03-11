@@ -70,8 +70,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Monkey GIF](https://github.com/kibexd/First-Repo/raw/main/monkey.gif)](https://github.com/kibexd/First-Repo/blob/main/monkey.gif)
 
-[![Cat Code GIF](https://github.com/kibexd/First-Repo/raw/main/catcode.gif)](https://github.com/kibexd/First-Repo/blob/main/catcode.gif)
-
 [![Future GIF](https://github.com/kibexd/First-Repo/raw/main/future.gif)](https://github.com/kibexd/First-Repo/blob/main/future.gif)
 
 <h3 align="left">Languages and Tools:</h3>
