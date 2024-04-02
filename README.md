@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m Enock Kibe
-- 👀 I’m into frontend and backend dev and hacking
-- 🌱 I’m currently learning javascript and react and some hacking
+- 👀 I’m into frontend and backend dev and Cybersecurity
+- 🌱 I’m currently learning javascript and want to learn and build react applications and am interested in Cybersecurity
 - 💞️ I’m looking to collaborate on projects with teams to build efficient solutions to solve modern problems for businesses and humanity
 - 📫 How to reach  me [Enock Kibe](https://kifee.netlify.app/)
 
