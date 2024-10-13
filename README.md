@@ -140,23 +140,17 @@
 
 <table width="100%">
   <tr>
-    <td>
-      <a href="https://github.com/kibexd/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibexd&theme=dark" alt="Top Langs" width="100%">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kibexd/First-Repo/blob/main/coder.gif">
-        <img src="https://raw.githubusercontent.com/kibexd/Gifs-and-Images-/refs/heads/main/monkey.gif" alt="Coder GIF" width="100%">
-      </a>
-    </td>
+  <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" alt="Top Langs" width="100%"></a></td>
+    <td><a href="https://github.com/kibexd/First-Repo/blob/main/coder.gif"><img src="https://raw.githubusercontent.com/kibexd/Gifs-and-Images-/refs/heads/main/monkey.gif" alt="Coder GIF" width="100%"></a></td>
+    
   </tr>
-</table>
+
 
   <tr>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kibexd&theme=react&hide_border=true" alt="GitHub Streak" width="100%"></a></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kibexd&show_icons=true&theme=react" alt="GitHub Stats" width="100%"></td>
-  </tr>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kibexd&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="100%"></a></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kibexd&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="100%"></td>
+</tr>
+
 </table>
 
 ![](https://komarev.com/ghpvc/?username=kibexd)
