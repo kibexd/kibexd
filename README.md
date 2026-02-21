@@ -165,6 +165,10 @@
         <li>🏗️ C/SIDE Development</li>
         <li>🔌 Extensions Development</li>
         <li>📈 Reporting &amp; Business Intelligence</li>
+        <li>🔄 DONAV to Business Central Migration</li>
+        <li>🤖 AI Integration with Business Central</li>
+        <li>🔗 API Testing with Postman</li>
+        <li>🧪 CRUD Operations Testing</li>
       </ul>
     </td>
   </tr>
@@ -202,9 +206,12 @@
     <td width="50%" valign="top">
       <ul>
         <li>🐬 SQL — MySQL</li>
+        <li>📦 SQL via NAV &amp; Business Central</li>
+        <li>🔶 Oracle (Basics)</li>
+        <li>⚡ Supabase</li>
         <li>🍃 NoSQL — MongoDB</li>
         <li>📐 Database Design</li>
-        <li>⚡ Query Optimization</li>
+        <li>🔍 Query Optimization</li>
       </ul>
     </td>
   </tr>
