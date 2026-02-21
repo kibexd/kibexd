@@ -136,28 +136,63 @@
     </td>
   </tr> 
 </table>
-</table>
 
+---
+
+<!-- 🏆 GITHUB TROPHIES -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kibexd&theme=algolia&no-frame=true&no-bg=false&margin-w=6&row=1" alt="kibexd trophies" />
+</p>
+
+---
+
+<!-- 📊 STATS SECTION -->
 <table width="100%">
   <tr>
-  <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" alt="Top Langs" width="100%"></a></td>
-    <td><a href="https://github.com/kibexd/First-Repo/blob/main/coder.gif"><img src="https://raw.githubusercontent.com/kibexd/Gifs-and-Images-/refs/heads/main/monkey.gif" alt="Coder GIF" width="100%"></a></td>
-    
-  </tr>
-
-
-  <tr>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kibexd&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="100%"></a></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kibexd&show_icons=true&theme=rose_pine" alt="GitHub Stats" width="100%"></td>
-</tr>
-
+    <td><a href="https://github.com/kibexd/First-Repo/blob/main/coder.gif"><img src="https://raw.githubusercontent.com/kibexd/Gifs-and-Images-/refs/heads/main/monkey.gif" alt="Coder GIF" width="100%"></a></td>
+  </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=kibexd)
-<!-- 
-[![Monkey GIF](https://github.com/kibexd/First-Repo/raw/main/monkey.gif)](https://github.com/kibexd/First-Repo/blob/main/monkey.gif) -->
+---
+
+<!-- 📈 CONTRIBUTION METRICS -->
+<h3 align="center">📈 Contribution Metrics</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kibexd&theme=rose_pine" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kibexd&theme=rose_pine" alt="Repos per Language" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kibexd&theme=rose_pine" alt="Most Commit Language" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kibexd&theme=rose_pine" alt="Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kibexd&theme=rose_pine&utcOffset=3" alt="Productive Time" width="49%"/>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=kibexd&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kibexd&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<h3 align="center">🐍 Watch my contributions get eaten!</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kibexd/kibexd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kibexd/kibexd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kibexd/kibexd/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
